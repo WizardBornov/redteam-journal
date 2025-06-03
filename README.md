@@ -9,8 +9,10 @@ This is where I document my red teaming and cybersecurity learning journey — f
 ## 🧾 Table of Contents
 
 ### 🔓 Writeups
+-Did not finish any yet. Will add soon
 
 ### ⚒️ Tools
+-Will add soon
 
 ### 🧠 Notes
 - [Linux Basics](https://wizardbornov.github.io/Linux-Basics-notes/)
