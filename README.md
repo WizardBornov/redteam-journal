@@ -2,6 +2,8 @@
 
 This is where I document my red teaming and cybersecurity learning journey — from solving CTFs on TryHackMe to creating my own tools and notes.
 
+[Link to my journal type blog](https://cipherslog.hashnode.dev/ciphers-log-introduction)
+
 > “Every root I earn teaches me a bit more about systems — and myself.”
 
 ---
