@@ -21,6 +21,8 @@ This is where I document my red teaming and cybersecurity learning journey — f
 - [Search Skills and Tools](https://wizardbornov.github.io/Searchskills-and-tools/)
 - [Command Lines Cheatsheet](https://wizardbornov.github.io/command-lines/)
 - [Bash Scripting full cheatsheet](https://devhints.io/bash)
+- [Network Core Concepts](https://wizardbornov.github.io/Networking-Basic-Concepts/)
+- [Network Protocols](network-protocols-notes.md)
 
 ---
 
