@@ -1,6 +1,6 @@
 #Networking Protocols Notes
 
-[cheatsheet](https://share.note.sx/wr4eah6t#Y7jmSXNRu7boCvNutSKvQL9+suxMX6thwt7kYZZFEXk)
+[cheatsheet](https://github.com/WizardBornov/redteam-journal/blob/main/Screenshot%202025-06-09%20142819.png?raw=true)
 [DNS](https://share.note.sx/8oxdais9#z8FEu9sWkw3cdqJjhbseaHlYE9G3sgYw91gCJp3vGew)
 [HTTPS](https://share.note.sx/dqvb6rvv#WOTbFhsnipbV6vP01Huc/JfYlQ3qqlzYeMaWVN0lKMQ)
 [FTP](https://share.note.sx/74t1petq#yJLCxYR62/ycnF9PoAPL+AnHiJplIWUvXgYHSybwupI)
