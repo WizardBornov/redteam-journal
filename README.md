@@ -13,8 +13,11 @@ This is where I document my red teaming and cybersecurity learning journey — f
 ### 🔓 Writeups
 -Did not finish any yet. Will add soon
 
-### ⚒️ Tools
--Will add soon
+### ⚒️ Tools and their Cheatsheet 
+ Look at the end of the notes for cheatsheet :)
+- [nmap](https://share.note.sx/er2vknf7#MEqQYWynX5NZY4Vt6GsvbB1y3PIqd5++e+kDCMjOjOY)
+- [Wireshark](https://share.note.sx/x5ik6kjc#yWA1U6eg9E1EAEuNLbEVRriMbvG9ueLUcxnNrLkvWAU)
+- [tcpdump](https://share.note.sx/r4u9pww8#Nx5aEctS2fM0XwC92hLARnMCXQNMOGgTZE5laiUcIqI)
 
 ### 🧠 Notes
 - [Linux Basics](https://wizardbornov.github.io/Linux-Basics-notes/)
@@ -23,6 +26,7 @@ This is where I document my red teaming and cybersecurity learning journey — f
 - [Bash Scripting full cheatsheet](https://devhints.io/bash)
 - [Network Core Concepts](https://wizardbornov.github.io/Networking-Basic-Concepts/)
 - [Network Protocols](network-protocols-notes.md)
+- [Network Protocols Secure](network-protocols-secure.md)
 
 ---
 
