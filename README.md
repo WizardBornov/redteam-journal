@@ -17,6 +17,8 @@ This is where I document my red teaming and cybersecurity learning journey — f
 - [nmap](https://share.note.sx/er2vknf7#MEqQYWynX5NZY4Vt6GsvbB1y3PIqd5++e+kDCMjOjOY)
 - [Wireshark](https://share.note.sx/x5ik6kjc#yWA1U6eg9E1EAEuNLbEVRriMbvG9ueLUcxnNrLkvWAU)
 - [tcpdump](https://share.note.sx/r4u9pww8#Nx5aEctS2fM0XwC92hLARnMCXQNMOGgTZE5laiUcIqI)
+- [Hashcat](https://share.note.sx/dci2xkum#lYH+HyUgLjQ2z3GNeqfp2yuxZvW4+GF56uOhx+c2PDk)
+- [John the Ripper](https://share.note.sx/1zoak49c#uPg4m0q7+nCkaNH/2h7kxYa1JQmaylmc/aDxtQu8mD4)
 
 ### 🧠 Notes
 - [Linux Basics](https://wizardbornov.github.io/Linux-Basics-notes/)
@@ -26,6 +28,7 @@ This is where I document my red teaming and cybersecurity learning journey — f
 - [Network Core Concepts](https://wizardbornov.github.io/Networking-Basic-Concepts/)
 - [Network Protocols](network-protocols-notes.md)
 - [Network Protocols Secure](network-protocols-secure.md)
+- [Cryptography](cryptography.md)
 
 ---
 
