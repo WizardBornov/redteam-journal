@@ -11,7 +11,7 @@ This is where I document my red teaming and cybersecurity learning journey — f
 ## 🧾 Table of Contents
 
 ### 🔓 Writeups
--Did not finish any yet. Will add soon
+-Will add soon
 
 ### ⚒️ Tools and their Cheatsheet 
 - [nmap](https://share.note.sx/er2vknf7#MEqQYWynX5NZY4Vt6GsvbB1y3PIqd5++e+kDCMjOjOY)
